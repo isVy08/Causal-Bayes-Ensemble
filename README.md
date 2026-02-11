@@ -1,6 +1,7 @@
-# Causal Discovery Ensemble
+# Ensemble Causal Discovery
 
-An ensemble learning framework for causal graph discovery that aggregates predictions from multiple causal discovery algorithms.
+This repo contains codes for reproducing the experiments in the paper **Causal Discovery in the Wild: A Voting-Theoretic Ensemble Approach** accepted at ICLR 2026.
+We propose an ensemble learning framework for causal discovery that aggregates predictions from multiple causal discovery algorithms.
 
 ## Pipeline Overview
 
